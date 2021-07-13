@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/wui-tag/wui-tag"],{"043d":function(t,e,o){},"2dd1":function(t,e,o){"use strict";o.r(e);var n=o("e6a8"),u=o("ea0d");for(var a in u)"default"!==a&&function(t){o.d(e,t,(function(){return u[t]}))}(a);o("cd7b");var l,r=o("f0c5"),i=Object(r["a"])(u["default"],n["b"],n["c"],!1,null,"78725afb",null,!1,n["a"],l);e["default"]=i.exports},cd7b:function(t,e,o){"use strict";var n=o("043d"),u=o.n(n);u.a},e6a8:function(t,e,o){"use strict";var n;o.d(e,"b",(function(){return u})),o.d(e,"c",(function(){return a})),o.d(e,"a",(function(){return n}));var u=function(){var t=this,e=t.$createElement,o=(t._self._c,t.__get_style([t.colorComputed,t.textColorComputed,t.customStyle]));t.$mp.data=Object.assign({},{$root:{s0:o}})},a=[]},ea0d:function(t,e,o){"use strict";o.r(e);var n=o("fa41"),u=o.n(n);for(var a in n)"default"!==a&&function(t){o.d(e,t,(function(){return n[t]}))}(a);e["default"]=u.a},fa41:function(t,e,o){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var n={name:"wui-tag",props:{type:{type:String,default:"default"},size:{type:String,default:"medium"},color:{type:String,default:""},textColor:{type:String,default:"white"},plain:{type:Boolean,default:!1},round:{type:Boolean,default:!1},mark:{type:Boolean,default:!1},closeable:{type:Boolean,default:!1},customStyle:{type:Object,default:function(){return{}}},ellipsis:{type:Boolean,default:!1}},computed:{colorComputed:function(){return this.color&&!this.plain?{background:this.color}:{}},textColorComputed:function(){return this.textColor||this.color&&this.plain?{color:this.textColor||this.color}:{}}},methods:{close:function(){this.$emit("close")},click:function(){this.$emit("click")}}};e.default=n}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/wui-tag/wui-tag-create-component',
+    {
+        'components/wui-tag/wui-tag-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("2dd1"))
+        })
+    },
+    [['components/wui-tag/wui-tag-create-component']]
+]);

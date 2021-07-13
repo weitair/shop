@@ -1,0 +1,22 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "wui-navbar": "/components/wui-navbar/wui-navbar",
+    "wui-load-detail": "/components/wui-load-detail/wui-load-detail",
+    "wui-swiper": "/components/wui-swiper/wui-swiper",
+    "wui-icon": "/components/wui-icon/wui-icon",
+    "wui-cell": "/components/wui-cell/wui-cell",
+    "wui-tag": "/components/wui-tag/wui-tag",
+    "uni-rate": "/components/uni-rate/uni-rate",
+    "wui-divider": "/components/wui-divider/wui-divider",
+    "u-parse": "/components/u-parse/u-parse",
+    "wui-bottom-action": "/components/wui-bottom-action/wui-bottom-action",
+    "wui-bottom-action-icon": "/components/wui-bottom-action-icon/wui-bottom-action-icon",
+    "wui-bottom-action-button": "/components/wui-bottom-action-button/wui-bottom-action-button",
+    "wui-sku": "/components/wui-sku/wui-sku",
+    "wui-popup": "/components/wui-popup/wui-popup",
+    "wui-coupon": "/components/wui-coupon/wui-coupon",
+    "wui-share": "/components/wui-share/wui-share",
+    "wui-login": "/components/wui-login/wui-login"
+  }
+}

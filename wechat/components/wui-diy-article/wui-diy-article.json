@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wui-article": "/components/wui-article/wui-article"
+  }
+}

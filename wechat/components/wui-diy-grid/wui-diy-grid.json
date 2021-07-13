@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wui-grid": "/components/wui-grid/wui-grid",
+    "wui-grid-item": "/components/wui-grid-item/wui-grid-item"
+  }
+}

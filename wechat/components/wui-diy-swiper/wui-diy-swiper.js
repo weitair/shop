@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/wui-diy-swiper/wui-diy-swiper"],{"3d8c":function(t,e,n){"use strict";n.r(e);var i=n("b806"),r=n("97e5");for(var a in r)"default"!==a&&function(t){n.d(e,t,(function(){return r[t]}))}(a);n("d473");var u,o=n("f0c5"),c=Object(o["a"])(r["default"],i["b"],i["c"],!1,null,"08caacb0",null,!1,i["a"],u);e["default"]=c.exports},"97e5":function(t,e,n){"use strict";n.r(e);var i=n("fda6"),r=n.n(i);for(var a in i)"default"!==a&&function(t){n.d(e,t,(function(){return i[t]}))}(a);e["default"]=r.a},b806:function(t,e,n){"use strict";n.d(e,"b",(function(){return r})),n.d(e,"c",(function(){return a})),n.d(e,"a",(function(){return i}));var i={wuiSwiper:function(){return n.e("components/wui-swiper/wui-swiper").then(n.bind(null,"108b"))}},r=function(){var t=this,e=t.$createElement;t._self._c},a=[]},cde4:function(t,e,n){},d473:function(t,e,n){"use strict";var i=n("cde4"),r=n.n(i);r.a},fda6:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var i={name:"wui-diy-swiper",props:{index:{type:Number,default:0},params:{type:Object,default:function(){return{}}}},data:function(){return{}},computed:{images:function(){var t=[];return this.params.images.forEach((function(e){e.image&&t.push(e)})),t},shape:function(){return"square"==this.params.shape?0:10},indicatorPos:function(){return"left"==this.params.indicatorPos?"bottomLeft":"right"==this.params.indicatorPos?"bottomRight":"bottomCenter"}},methods:{redirect:function(t){for(var e=0;e<this.params.images.length;e++){var n=this.params.images[e].link;e==t&&n&&this.$util.redirect(n.path,n.appid)}}}};e.default=i}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/wui-diy-swiper/wui-diy-swiper-create-component',
+    {
+        'components/wui-diy-swiper/wui-diy-swiper-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("3d8c"))
+        })
+    },
+    [['components/wui-diy-swiper/wui-diy-swiper-create-component']]
+]);

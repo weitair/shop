@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的客户",
+  "usingComponents": {
+    "wui-load-login-list": "/components/wui-load-login-list/wui-load-login-list",
+    "wui-search": "/components/wui-search/wui-search",
+    "wui-cell": "/components/wui-cell/wui-cell",
+    "wui-loading-more": "/components/wui-loading-more/wui-loading-more"
+  }
+}

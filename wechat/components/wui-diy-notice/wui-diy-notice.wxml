@@ -1,0 +1,1 @@
+<view style="{{'padding:'+(params.padding_top_bottom+'px 0')+';'+('background:'+(params.background)+';')}}" class="data-v-93dabf30"><uni-notice-bar vue-id="773f1aa2-1" text="{{params.content}}" background-color="{{params.background}}" color="{{params.color}}" scrollable="{{true}}" showIcon="{{true}}" speed="{{80}}" class="data-v-93dabf30" bind:__l="__l"></uni-notice-bar></view>

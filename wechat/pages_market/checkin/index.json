@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "签到有礼",
+  "usingComponents": {
+    "wui-load-login": "/components/wui-load-login/wui-load-login",
+    "uni-calendar": "/components/uni-calendar/uni-calendar",
+    "wui-button": "/components/wui-button/wui-button",
+    "wui-icon": "/components/wui-icon/wui-icon",
+    "wui-card": "/components/wui-card/wui-card",
+    "u-parse": "/components/u-parse/u-parse"
+  }
+}

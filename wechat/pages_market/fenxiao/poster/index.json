@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "推广海报",
+  "usingComponents": {
+    "wui-load-login-list": "/components/wui-load-login-list/wui-load-login-list",
+    "wui-swiper": "/components/wui-swiper/wui-swiper",
+    "wui-button": "/components/wui-button/wui-button",
+    "wui-window": "/components/wui-window/wui-window"
+  }
+}

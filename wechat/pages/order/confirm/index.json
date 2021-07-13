@@ -1,0 +1,19 @@
+{
+  "navigationBarTitleText": "确认订单",
+  "usingComponents": {
+    "wui-load-login": "/components/wui-load-login/wui-load-login",
+    "wui-tabs": "/components/wui-tabs/wui-tabs",
+    "wui-cell": "/components/wui-cell/wui-cell",
+    "wui-field": "/components/wui-field/wui-field",
+    "wui-card": "/components/wui-card/wui-card",
+    "wui-goods-card": "/components/wui-goods-card/wui-goods-card",
+    "wui-submit-bar": "/components/wui-submit-bar/wui-submit-bar",
+    "wui-button": "/components/wui-button/wui-button",
+    "wui-popup": "/components/wui-popup/wui-popup",
+    "wui-icon": "/components/wui-icon/wui-icon",
+    "wui-bottom-action": "/components/wui-bottom-action/wui-bottom-action",
+    "wui-bottom-action-button": "/components/wui-bottom-action-button/wui-bottom-action-button",
+    "wui-tree-select": "/components/wui-tree-select/wui-tree-select",
+    "wui-coupon": "/components/wui-coupon/wui-coupon"
+  }
+}

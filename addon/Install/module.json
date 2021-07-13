@@ -1,0 +1,14 @@
+{
+    "name": "Install",
+    "alias": "install",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Addon\\Install\\Providers\\InstallServiceProvider",
+        "Addon\\Install\\Providers\\EventServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

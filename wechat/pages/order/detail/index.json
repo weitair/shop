@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "订单详情",
+  "usingComponents": {
+    "wui-load-login": "/components/wui-load-login/wui-load-login",
+    "wui-count-down": "/components/wui-count-down/wui-count-down",
+    "wui-cell": "/components/wui-cell/wui-cell",
+    "wui-card": "/components/wui-card/wui-card",
+    "wui-goods-card": "/components/wui-goods-card/wui-goods-card",
+    "wui-button": "/components/wui-button/wui-button"
+  }
+}

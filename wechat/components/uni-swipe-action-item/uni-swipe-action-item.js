@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/uni-swipe-action-item/uni-swipe-action-item"],{"3c74":function(t,n,e){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var o=u(e("8158"));function u(t){return t&&t.__esModule?t:{default:t}}var a={mixins:[o.default],props:{show:{type:String,default:"none"},disabled:{type:Boolean,default:!1},autoClose:{type:Boolean,default:!0},threshold:{type:Number,default:20},leftOptions:{type:Array,default:function(){return[]}},rightOptions:{type:Array,default:function(){return[]}}},inject:["swipeaction"]};n.default=a},4027:function(t,n,e){"use strict";var o=e("c913"),u=e.n(o);u.a},5684:function(t,n,e){"use strict";var o=function(t){t.options.wxsCallMethods||(t.options.wxsCallMethods=[]),t.options.wxsCallMethods.push("closeSwipe"),t.options.wxsCallMethods.push("change")};n["a"]=o},c304:function(t,n,e){"use strict";var o;e.d(n,"b",(function(){return u})),e.d(n,"c",(function(){return a})),e.d(n,"a",(function(){return o}));var u=function(){var t=this,n=t.$createElement;t._self._c},a=[]},c913:function(t,n,e){},f5a8:function(t,n,e){"use strict";e.r(n);var o=e("3c74"),u=e.n(o);for(var a in o)"default"!==a&&function(t){e.d(n,t,(function(){return o[t]}))}(a);n["default"]=u.a},ffb6:function(t,n,e){"use strict";e.r(n);var o=e("c304"),u=e("f5a8");for(var a in u)"default"!==a&&function(t){e.d(n,t,(function(){return u[t]}))}(a);e("4027");var i,r=e("f0c5"),c=e("5684"),s=Object(r["a"])(u["default"],o["b"],o["c"],!1,null,"53a22c46",null,!1,o["a"],i);"function"===typeof c["a"]&&Object(c["a"])(s),n["default"]=s.exports}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/uni-swipe-action-item/uni-swipe-action-item-create-component',
+    {
+        'components/uni-swipe-action-item/uni-swipe-action-item-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("ffb6"))
+        })
+    },
+    [['components/uni-swipe-action-item/uni-swipe-action-item-create-component']]
+]);

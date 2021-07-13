@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "反馈建议",
+  "usingComponents": {
+    "wui-load": "/components/wui-load/wui-load",
+    "wui-cell": "/components/wui-cell/wui-cell",
+    "wui-field": "/components/wui-field/wui-field",
+    "wui-button": "/components/wui-button/wui-button"
+  }
+}

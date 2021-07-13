@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "提现详情",
+  "usingComponents": {
+    "wui-load-login": "/components/wui-load-login/wui-load-login",
+    "wui-card": "/components/wui-card/wui-card",
+    "wui-cell": "/components/wui-cell/wui-cell"
+  }
+}

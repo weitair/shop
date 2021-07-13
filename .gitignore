@@ -1,0 +1,9 @@
+# Dir:
+/.idea
+/.svn
+
+# File:
+.editorconfig
+.phpstorm.meta.php
+_ide_helper.php
+phpunit.xml

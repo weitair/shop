@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "购物车",
+  "usingComponents": {
+    "wui-load-login": "/components/wui-load-login/wui-load-login",
+    "wui-empty": "/components/wui-empty/wui-empty",
+    "uni-swipe-action": "/components/uni-swipe-action/uni-swipe-action",
+    "uni-swipe-action-item": "/components/uni-swipe-action-item/uni-swipe-action-item",
+    "wui-goods-card": "/components/wui-goods-card/wui-goods-card",
+    "wui-number-box": "/components/wui-number-box/wui-number-box",
+    "wui-card": "/components/wui-card/wui-card",
+    "wui-submit-bar": "/components/wui-submit-bar/wui-submit-bar",
+    "wui-button": "/components/wui-button/wui-button",
+    "wui-diy": "/components/wui-diy/wui-diy",
+    "wui-tabbar": "/components/wui-tabbar/wui-tabbar",
+    "wui-tabbar-item": "/components/wui-tabbar-item/wui-tabbar-item"
+  }
+}

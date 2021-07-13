@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "内容",
+  "usingComponents": {
+    "wui-load-list": "/components/wui-load-list/wui-load-list",
+    "wui-swiper": "/components/wui-swiper/wui-swiper",
+    "wui-tabs": "/components/wui-tabs/wui-tabs",
+    "wui-article": "/components/wui-article/wui-article",
+    "wui-loading-more": "/components/wui-loading-more/wui-loading-more"
+  }
+}

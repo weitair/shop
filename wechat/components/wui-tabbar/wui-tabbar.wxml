@@ -1,0 +1,1 @@
+<view class="{{['tabbar data-v-3e6cdcae',[(border)?'border':'']]}}" style="{{'background:'+(background)+';'}}" hover-class="none"><slot></slot></view>

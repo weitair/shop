@@ -1,0 +1,1 @@
+<block wx:if="{{mp}}"><view><official-account></official-account></view></block>

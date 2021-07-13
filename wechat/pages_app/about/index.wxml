@@ -1,0 +1,1 @@
+<view class="container data-v-43d6093e"><wui-load vue-id="17dce046-1" loading="{{loading}}" class="data-v-43d6093e" bind:__l="__l" vue-slots="{{['default']}}"><view class="content data-v-43d6093e"><u-parse vue-id="{{('17dce046-2')+','+('17dce046-1')}}" html="{{detail.content}}" class="data-v-43d6093e" bind:__l="__l"></u-parse></view></wui-load></view>

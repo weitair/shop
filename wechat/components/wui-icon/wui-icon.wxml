@@ -1,0 +1,1 @@
+<label class="data-v-7e4d06fa"><block wx:if="{{!image}}"><text data-event-opts="{{[['tap',[['click',['$event']]]]]}}" class="{{['weitair-icon data-v-7e4d06fa',name]}}" style="{{$root.s0}}" bindtap="__e"></text></block><block wx:else><image class="image data-v-7e4d06fa" style="{{'width:'+($root.g0)+';'+('height:'+($root.g1)+';')}}" src="{{name}}"></image></block></label>

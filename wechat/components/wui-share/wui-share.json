@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wui-popup": "/components/wui-popup/wui-popup",
+    "wui-bottom-action": "/components/wui-bottom-action/wui-bottom-action",
+    "wui-bottom-action-button": "/components/wui-bottom-action-button/wui-bottom-action-button",
+    "wui-window": "/components/wui-window/wui-window",
+    "wui-share-wechat": "/components/wui-share-wechat/wui-share-wechat"
+  }
+}

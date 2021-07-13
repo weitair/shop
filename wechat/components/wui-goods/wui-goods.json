@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wui-sku": "/components/wui-sku/wui-sku"
+  }
+}

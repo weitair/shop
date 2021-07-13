@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "人员结构",
+  "usingComponents": {
+    "wui-load-login": "/components/wui-load-login/wui-load-login",
+    "wui-cell": "/components/wui-cell/wui-cell",
+    "wui-icon": "/components/wui-icon/wui-icon",
+    "wui-search": "/components/wui-search/wui-search",
+    "wui-load-list": "/components/wui-load-list/wui-load-list",
+    "wui-loading-more": "/components/wui-loading-more/wui-loading-more",
+    "wui-tabbar": "/components/wui-tabbar/wui-tabbar",
+    "wui-tabbar-item": "/components/wui-tabbar-item/wui-tabbar-item"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "提现记录",
+  "usingComponents": {
+    "wui-load-login-list": "/components/wui-load-login-list/wui-load-login-list",
+    "wui-tabs": "/components/wui-tabs/wui-tabs",
+    "wui-cell": "/components/wui-cell/wui-cell",
+    "wui-icon": "/components/wui-icon/wui-icon",
+    "wui-loading-more": "/components/wui-loading-more/wui-loading-more"
+  }
+}

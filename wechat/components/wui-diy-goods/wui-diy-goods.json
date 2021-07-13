@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wui-tabs": "/components/wui-tabs/wui-tabs",
+    "wui-goods": "/components/wui-goods/wui-goods"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "个人资料",
+  "usingComponents": {
+    "wui-load-login": "/components/wui-load-login/wui-load-login",
+    "wui-cell": "/components/wui-cell/wui-cell"
+  }
+}

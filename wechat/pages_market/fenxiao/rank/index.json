@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "团队排行",
+  "usingComponents": {
+    "wui-tabs": "/components/wui-tabs/wui-tabs",
+    "wui-load-login-list": "/components/wui-load-login-list/wui-load-login-list",
+    "wui-cell": "/components/wui-cell/wui-cell",
+    "wui-badge": "/components/wui-badge/wui-badge",
+    "wui-loading-more": "/components/wui-loading-more/wui-loading-more"
+  }
+}

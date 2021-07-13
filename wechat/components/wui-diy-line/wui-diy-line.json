@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wui-divider": "/components/wui-divider/wui-divider"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "申请加入",
+  "usingComponents": {
+    "wui-load-login": "/components/wui-load-login/wui-load-login",
+    "wui-goods": "/components/wui-goods/wui-goods",
+    "wui-button": "/components/wui-button/wui-button",
+    "wui-field": "/components/wui-field/wui-field",
+    "wui-popup": "/components/wui-popup/wui-popup",
+    "u-parse": "/components/u-parse/u-parse",
+    "wui-bottom-action": "/components/wui-bottom-action/wui-bottom-action",
+    "wui-bottom-action-button": "/components/wui-bottom-action-button/wui-bottom-action-button"
+  }
+}

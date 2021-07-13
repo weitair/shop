@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的银行卡",
+  "usingComponents": {
+    "wui-load-login": "/components/wui-load-login/wui-load-login",
+    "wui-cell": "/components/wui-cell/wui-cell",
+    "wui-field": "/components/wui-field/wui-field",
+    "wui-picker": "/components/wui-picker/wui-picker",
+    "wui-button": "/components/wui-button/wui-button"
+  }
+}

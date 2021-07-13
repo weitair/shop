@@ -1,0 +1,21 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wui-diy-search": "/components/wui-diy-search/wui-diy-search",
+    "wui-diy-swiper": "/components/wui-diy-swiper/wui-diy-swiper",
+    "wui-diy-notice": "/components/wui-diy-notice/wui-diy-notice",
+    "wui-diy-image": "/components/wui-diy-image/wui-diy-image",
+    "wui-diy-video": "/components/wui-diy-video/wui-diy-video",
+    "wui-diy-text": "/components/wui-diy-text/wui-diy-text",
+    "wui-diy-rich": "/components/wui-diy-rich/wui-diy-rich",
+    "wui-diy-blank": "/components/wui-diy-blank/wui-diy-blank",
+    "wui-diy-line": "/components/wui-diy-line/wui-diy-line",
+    "wui-diy-grid": "/components/wui-diy-grid/wui-diy-grid",
+    "wui-diy-cell": "/components/wui-diy-cell/wui-diy-cell",
+    "wui-diy-cube": "/components/wui-diy-cube/wui-diy-cube",
+    "wui-diy-goods": "/components/wui-diy-goods/wui-diy-goods",
+    "wui-diy-coupon": "/components/wui-diy-coupon/wui-diy-coupon",
+    "wui-diy-article": "/components/wui-diy-article/wui-diy-article",
+    "wui-diy-official-account": "/components/wui-diy-official-account/wui-diy-official-account"
+  }
+}

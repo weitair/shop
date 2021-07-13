@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "奖励",
+  "usingComponents": {
+    "wui-load-login": "/components/wui-load-login/wui-load-login",
+    "wui-tabs": "/components/wui-tabs/wui-tabs",
+    "wui-load-list": "/components/wui-load-list/wui-load-list",
+    "wui-card": "/components/wui-card/wui-card",
+    "wui-goods-card": "/components/wui-goods-card/wui-goods-card",
+    "wui-loading-more": "/components/wui-loading-more/wui-loading-more",
+    "wui-tabbar": "/components/wui-tabbar/wui-tabbar",
+    "wui-tabbar-item": "/components/wui-tabbar-item/wui-tabbar-item"
+  }
+}

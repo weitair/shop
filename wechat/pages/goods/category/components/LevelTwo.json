@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wui-tag": "/components/wui-tag/wui-tag",
+    "wui-goods-card": "/components/wui-goods-card/wui-goods-card",
+    "wui-empty": "/components/wui-empty/wui-empty",
+    "wui-loading-more": "/components/wui-loading-more/wui-loading-more"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Newcomer",
+    "alias": "newcomer",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Addon\\Newcomer\\Providers\\NewcomerServiceProvider",
+        "Addon\\Newcomer\\Providers\\EventServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

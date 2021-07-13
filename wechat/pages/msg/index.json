@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "wui-icon": "/components/wui-icon/wui-icon"
+  }
+}

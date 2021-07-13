@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "商品列表",
+  "usingComponents": {
+    "wui-load-list": "/components/wui-load-list/wui-load-list",
+    "wui-search": "/components/wui-search/wui-search",
+    "wui-icon": "/components/wui-icon/wui-icon",
+    "wui-popup": "/components/wui-popup/wui-popup",
+    "wui-tag": "/components/wui-tag/wui-tag",
+    "wui-bottom-action": "/components/wui-bottom-action/wui-bottom-action",
+    "wui-bottom-action-button": "/components/wui-bottom-action-button/wui-bottom-action-button",
+    "wui-goods": "/components/wui-goods/wui-goods",
+    "wui-loading-more": "/components/wui-loading-more/wui-loading-more"
+  }
+}

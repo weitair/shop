@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wui-cell": "/components/wui-cell/wui-cell",
+    "wui-icon": "/components/wui-icon/wui-icon"
+  }
+}

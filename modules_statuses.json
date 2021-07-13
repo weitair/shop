@@ -1,0 +1,12 @@
+{
+    "Install": true,
+    "Article": true,
+    "Coupon": true,
+    "Fenxiao": true,
+    "Reciept": true,
+    "Checkin": true,
+    "Invite": true,
+    "Newcomer": true,
+    "Freeship": true,
+    "Popupwindow": true
+}

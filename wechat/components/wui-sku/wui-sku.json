@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wui-popup": "/components/wui-popup/wui-popup",
+    "wui-number-box": "/components/wui-number-box/wui-number-box",
+    "wui-bottom-action": "/components/wui-bottom-action/wui-bottom-action",
+    "wui-bottom-action-button": "/components/wui-bottom-action-button/wui-bottom-action-button",
+    "wui-login": "/components/wui-login/wui-login"
+  }
+}

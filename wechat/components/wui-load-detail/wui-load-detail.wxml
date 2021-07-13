@@ -1,0 +1,1 @@
+<view><block wx:if="{{loading}}"><wui-loading vue-id="0f7b4dd8-1" bind:__l="__l"></wui-loading></block><block wx:else><view><block wx:if="{{$root.g0}}"><wui-empty vue-id="0f7b4dd8-2" title="{{title}}" button="{{button}}" data-event-opts="{{[['^click',[['click']]]]}}" bind:click="__e" bind:__l="__l"></wui-empty></block><block wx:else><slot></slot></block></view></block></view>

@@ -1,0 +1,1 @@
+<view class="container data-v-79bbf7be"><view class="head data-v-79bbf7be" style="{{'margin-top:'+('100px')+';'}}"><view class="logo data-v-79bbf7be"><wui-icon vue-id="7f6a51cb-1" name="weitair-icon-wechat" size="160" color="#44bb00" class="data-v-79bbf7be" bind:__l="__l"></wui-icon></view><view class="msg data-v-79bbf7be">请在公众号中打开</view></view></view>

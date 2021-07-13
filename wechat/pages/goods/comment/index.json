@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "评价",
+  "usingComponents": {
+    "wui-load-list": "/components/wui-load-list/wui-load-list",
+    "wui-card": "/components/wui-card/wui-card",
+    "wui-tag": "/components/wui-tag/wui-tag",
+    "wui-cell": "/components/wui-cell/wui-cell",
+    "uni-rate": "/components/uni-rate/uni-rate",
+    "wui-loading-more": "/components/wui-loading-more/wui-loading-more"
+  }
+}

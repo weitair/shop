@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "核销",
+  "usingComponents": {
+    "wui-load": "/components/wui-load/wui-load",
+    "wui-cell": "/components/wui-cell/wui-cell",
+    "wui-card": "/components/wui-card/wui-card",
+    "wui-goods-card": "/components/wui-goods-card/wui-goods-card",
+    "wui-button": "/components/wui-button/wui-button",
+    "wui-icon": "/components/wui-icon/wui-icon"
+  }
+}

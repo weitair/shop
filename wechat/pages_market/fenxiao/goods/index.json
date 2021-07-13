@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "推广商品",
+  "usingComponents": {
+    "wui-load-login-list": "/components/wui-load-login-list/wui-load-login-list",
+    "wui-search": "/components/wui-search/wui-search",
+    "wui-goods-card": "/components/wui-goods-card/wui-goods-card",
+    "wui-tag": "/components/wui-tag/wui-tag",
+    "wui-loading-more": "/components/wui-loading-more/wui-loading-more",
+    "wui-tabbar": "/components/wui-tabbar/wui-tabbar",
+    "wui-tabbar-item": "/components/wui-tabbar-item/wui-tabbar-item"
+  }
+}

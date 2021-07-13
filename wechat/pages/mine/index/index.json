@@ -1,0 +1,14 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "wui-navbar": "/components/wui-navbar/wui-navbar",
+    "wui-load-login": "/components/wui-load-login/wui-load-login",
+    "wui-card": "/components/wui-card/wui-card",
+    "wui-cell": "/components/wui-cell/wui-cell",
+    "wui-badge": "/components/wui-badge/wui-badge",
+    "wui-icon": "/components/wui-icon/wui-icon",
+    "wui-diy": "/components/wui-diy/wui-diy",
+    "wui-tabbar": "/components/wui-tabbar/wui-tabbar",
+    "wui-tabbar-item": "/components/wui-tabbar-item/wui-tabbar-item"
+  }
+}

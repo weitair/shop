@@ -1,0 +1,111 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/msg/index",
+    "pages/auth/login/index",
+    "pages/auth/login/wechat",
+    "pages/auth/register/index",
+    "pages/auth/register/weapp",
+    "pages/mine/index/index",
+    "pages/mine/profile/index/index",
+    "pages/mine/profile/nickname/index",
+    "pages/mine/profile/phone/index",
+    "pages/mine/address/index",
+    "pages/mine/favorite/index",
+    "pages/mine/history/index",
+    "pages/mine/invoice/index",
+    "pages/cart/index",
+    "pages/goods/list/index",
+    "pages/goods/detail/index",
+    "pages/goods/comment/index",
+    "pages/goods/category/index",
+    "pages/goods/search/index",
+    "pages/order/list/index",
+    "pages/order/detail/index",
+    "pages/order/confirm/index",
+    "pages/order/comment/index",
+    "pages/order/verify/index",
+    "pages/order/result/index"
+  ],
+  "subPackages": [
+    {
+      "root": "pages_market",
+      "pages": [
+        "point/index/index",
+        "coupon/index/index",
+        "coupon/mine/index",
+        "checkin/index",
+        "fenxiao/auth/index",
+        "fenxiao/index/index",
+        "fenxiao/goods/index",
+        "fenxiao/reward/index",
+        "fenxiao/mine/index",
+        "fenxiao/profile/index/index",
+        "fenxiao/profile/name/index",
+        "fenxiao/profile/card/index",
+        "fenxiao/profile/ali/index",
+        "fenxiao/client/index",
+        "fenxiao/withdraw/index/index",
+        "fenxiao/withdraw/record/index",
+        "fenxiao/withdraw/detail/index",
+        "fenxiao/rank/index",
+        "fenxiao/poster/index"
+      ]
+    },
+    {
+      "root": "pages_app",
+      "pages": [
+        "page/index",
+        "setting/index",
+        "feedback/index",
+        "about/index",
+        "verify/index/index",
+        "verify/handle/index",
+        "article/list/index",
+        "article/detail/index"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#ffffff",
+    "navigationStyle": "default"
+  },
+  "tabBar": {
+    "color": "#ffffff",
+    "selectedColor": "#353535",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index"
+      },
+      {
+        "pagePath": "pages/goods/category/index"
+      },
+      {
+        "pagePath": "pages/cart/index"
+      },
+      {
+        "pagePath": "pages/mine/index/index"
+      }
+    ]
+  },
+  "preloadRule": {
+    "pages/index/index": {
+      "network": "all",
+      "packages": [
+        "pages_app",
+        "pages_market"
+      ]
+    }
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序定位"
+    }
+  },
+  "usingComponents": {}
+}

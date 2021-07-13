@@ -1,0 +1,1 @@
+<view class="loading data-v-213a6857"><uni-load-more vue-id="73414f82-1" status="{{status}}" iconSize="{{18}}" last-page="{{lastPage}}" class="data-v-213a6857" bind:__l="__l"></uni-load-more></view>

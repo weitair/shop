@@ -1,0 +1,1 @@
+<view style="{{'padding:'+('5px 0px')+';'}}" class="data-v-30b10fb8"><view class="{{['divider data-v-30b10fb8',styleClass,textClass]}}" style="{{'padding:'+(full?'0':'0 16px')+';'+('color:'+(color)+';')+('border-color:'+(borderColor)+';')}}"><slot></slot></view></view>

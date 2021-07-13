@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "地址管理",
+  "usingComponents": {
+    "wui-tabs": "/components/wui-tabs/wui-tabs",
+    "wui-load-login-list": "/components/wui-load-login-list/wui-load-login-list",
+    "wui-cell": "/components/wui-cell/wui-cell",
+    "wui-tag": "/components/wui-tag/wui-tag",
+    "wui-icon": "/components/wui-icon/wui-icon",
+    "wui-loading-more": "/components/wui-loading-more/wui-loading-more",
+    "wui-bottom-action": "/components/wui-bottom-action/wui-bottom-action",
+    "wui-bottom-action-button": "/components/wui-bottom-action-button/wui-bottom-action-button",
+    "wui-picker": "/components/wui-picker/wui-picker",
+    "wui-popup": "/components/wui-popup/wui-popup",
+    "wui-field": "/components/wui-field/wui-field"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wui-loading": "/components/wui-loading/wui-loading",
+    "wui-empty": "/components/wui-empty/wui-empty"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "usingComponents": {
+    "wui-load-login": "/components/wui-load-login/wui-load-login",
+    "wui-icon": "/components/wui-icon/wui-icon",
+    "wui-cell": "/components/wui-cell/wui-cell",
+    "wui-button": "/components/wui-button/wui-button",
+    "wui-tabbar": "/components/wui-tabbar/wui-tabbar",
+    "wui-tabbar-item": "/components/wui-tabbar-item/wui-tabbar-item"
+  }
+}

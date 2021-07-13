@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "设置",
+  "usingComponents": {
+    "wui-load-login": "/components/wui-load-login/wui-load-login",
+    "wui-cell": "/components/wui-cell/wui-cell",
+    "wui-button": "/components/wui-button/wui-button"
+  }
+}

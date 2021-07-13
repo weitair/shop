@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "领卷中心",
+  "usingComponents": {
+    "wui-load-list": "/components/wui-load-list/wui-load-list",
+    "wui-coupon": "/components/wui-coupon/wui-coupon",
+    "wui-loading-more": "/components/wui-loading-more/wui-loading-more",
+    "wui-login": "/components/wui-login/wui-login"
+  }
+}

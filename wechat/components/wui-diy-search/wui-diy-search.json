@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wui-search": "/components/wui-search/wui-search"
+  }
+}

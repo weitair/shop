@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "提现",
+  "usingComponents": {
+    "wui-load-login": "/components/wui-load-login/wui-load-login",
+    "wui-card": "/components/wui-card/wui-card",
+    "wui-field": "/components/wui-field/wui-field",
+    "wui-cell": "/components/wui-cell/wui-cell",
+    "wui-icon": "/components/wui-icon/wui-icon",
+    "wui-button": "/components/wui-button/wui-button",
+    "wui-popup": "/components/wui-popup/wui-popup"
+  }
+}

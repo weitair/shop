@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wui-cell": "/components/wui-cell/wui-cell"
+  }
+}

@@ -1,0 +1,1 @@
+<view style="{{'padding:'+(params.padding_top_bottom+1+'px 0px')+';'+('background:'+(params.background)+';')}}" class="data-v-4ec1f943"><wui-divider vue-id="030f90bc-1" color="{{params.color}}" border-color="{{params.border_color}}" full="{{params.full}}" class="data-v-4ec1f943" bind:__l="__l" vue-slots="{{['default']}}">{{params.text}}</wui-divider></view>

@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "商品分类",
+  "usingComponents": {
+    "wui-load": "/components/wui-load/wui-load",
+    "wui-search": "/components/wui-search/wui-search",
+    "wui-sku": "/components/wui-sku/wui-sku",
+    "wui-tabbar": "/components/wui-tabbar/wui-tabbar",
+    "wui-tabbar-item": "/components/wui-tabbar-item/wui-tabbar-item",
+    "level-one": "/pages/goods/category/components/LevelOne",
+    "level-two": "/pages/goods/category/components/LevelTwo",
+    "level-three": "/pages/goods/category/components/LevelThree"
+  }
+}

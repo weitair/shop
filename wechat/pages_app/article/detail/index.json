@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "详情",
+  "usingComponents": {
+    "wui-load-detail": "/components/wui-load-detail/wui-load-detail",
+    "u-parse": "/components/u-parse/u-parse"
+  }
+}

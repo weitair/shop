@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的发票",
+  "usingComponents": {
+    "wui-load-login": "/components/wui-load-login/wui-load-login",
+    "wui-tabs": "/components/wui-tabs/wui-tabs",
+    "wui-card": "/components/wui-card/wui-card",
+    "wui-field": "/components/wui-field/wui-field",
+    "wui-button": "/components/wui-button/wui-button"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "关于我们",
+  "usingComponents": {
+    "wui-load": "/components/wui-load/wui-load",
+    "u-parse": "/components/u-parse/u-parse"
+  }
+}

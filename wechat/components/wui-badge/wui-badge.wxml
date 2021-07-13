@@ -1,0 +1,1 @@
+<view class="badge__wrapper data-v-3510b76e"><slot></slot><block wx:if="{{dot||content}}"><view class="{{['badge badge-fixed data-v-3510b76e',(dot)?'badge-dot':'']}}" style="{{'background:'+(color?color:'')+';'}}">{{''+(dot?'':contentComputed)+''}}</view></block></view>

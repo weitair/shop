@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的优惠卷",
+  "usingComponents": {
+    "wui-load-login-list": "/components/wui-load-login-list/wui-load-login-list",
+    "wui-tabs": "/components/wui-tabs/wui-tabs",
+    "wui-coupon": "/components/wui-coupon/wui-coupon",
+    "wui-loading-more": "/components/wui-loading-more/wui-loading-more"
+  }
+}

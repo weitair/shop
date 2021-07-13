@@ -1,0 +1,11 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "wui-load": "/components/wui-load/wui-load",
+    "wui-navbar": "/components/wui-navbar/wui-navbar",
+    "wui-diy": "/components/wui-diy/wui-diy",
+    "wui-popupwindow": "/components/wui-popupwindow/wui-popupwindow",
+    "wui-tabbar": "/components/wui-tabbar/wui-tabbar",
+    "wui-tabbar-item": "/components/wui-tabbar-item/wui-tabbar-item"
+  }
+}

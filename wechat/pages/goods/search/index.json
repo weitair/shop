@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "wui-search": "/components/wui-search/wui-search",
+    "wui-card": "/components/wui-card/wui-card",
+    "wui-icon": "/components/wui-icon/wui-icon",
+    "wui-tag": "/components/wui-tag/wui-tag"
+  }
+}

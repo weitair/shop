@@ -1,0 +1,1 @@
+<view><view class="bottom-action"><slot></slot></view></view>

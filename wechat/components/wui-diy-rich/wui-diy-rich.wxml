@@ -1,0 +1,1 @@
+<view style="{{'background:'+(params.background)+';'+('padding:'+(params.padding_top_bottom+'px '+params.padding_left_right+'px')+';')}}" class="data-v-501630fd"><u-parse vue-id="590bc2bc-1" html="{{$root.m0}}" class="data-v-501630fd" bind:__l="__l"></u-parse></view>

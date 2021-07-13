@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "注册",
+  "usingComponents": {
+    "wui-button": "/components/wui-button/wui-button",
+    "wui-icon": "/components/wui-icon/wui-icon"
+  }
+}

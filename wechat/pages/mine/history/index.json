@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "我的足迹",
+  "usingComponents": {
+    "wui-load-login-list": "/components/wui-load-login-list/wui-load-login-list",
+    "uni-swipe-action": "/components/uni-swipe-action/uni-swipe-action",
+    "uni-swipe-action-item": "/components/uni-swipe-action-item/uni-swipe-action-item",
+    "wui-goods-card": "/components/wui-goods-card/wui-goods-card",
+    "wui-loading-more": "/components/wui-loading-more/wui-loading-more",
+    "wui-submit-bar": "/components/wui-submit-bar/wui-submit-bar",
+    "wui-button": "/components/wui-button/wui-button"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wui-sticky": "/components/wui-sticky/wui-sticky",
+    "wui-icon": "/components/wui-icon/wui-icon"
+  }
+}

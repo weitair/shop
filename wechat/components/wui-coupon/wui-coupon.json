@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wui-button": "/components/wui-button/wui-button"
+  }
+}

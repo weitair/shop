@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "wui-popup": "/components/wui-popup/wui-popup",
+    "wui-button": "/components/wui-button/wui-button"
+  }
+}

@@ -1,0 +1,107 @@
+body {
+    height: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Arial, sans-serif;
+}
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    overflow:hidden;
+    background: #f6f6f6;
+}
+.el-header {
+    background: #2589FF;
+    height: 60px;
+}
+.el-header .container-logo {
+    width: 200px;
+    min-width: 200px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.container-logoimage {
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+    margin-right: 12px;
+}
+img {
+    border-style: none;
+}
+.el-header .container-logo .container-logoname {
+    display: inline-block;
+    margin: 0;
+    color: #fff;
+    font-weight: 600;
+    line-height: 60px;
+    font-size: 14px;
+    vertical-align: middle;
+}
+ h1 {
+     font-size: 2em;
+     margin: 5px 0;
+ }
+.el-main {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.center {
+    height: 80%;
+    width: 70%;
+    background: #fff;
+    position: absolute;
+    top: 100px;
+    margin-bottom: 200px;
+    padding: 20px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.title {
+    font-weight: 600;
+    font-size: 18px;
+    box-sizing: border-box;
+    padding: 5px;
+}
+.sub-title {
+    box-sizing: border-box;
+    padding: 5px 5px;
+    border-bottom: 1px solid #EBEEF5;
+    color: #909399;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.steps {
+    border-bottom: #efefef solid 2px !important;
+    padding-bottom: 5px;
+}
+.content {
+    height: 80%;
+    overflow-y: auto;
+    padding: 10px 20px;
+    line-height: 21px;
+    color: #353535;
+}
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    height: 60px;
+    padding: 5px;
+}
